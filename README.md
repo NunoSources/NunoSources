@@ -2,6 +2,8 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nunosources&langs_count=5&theme=tokyonight)]()
 
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunoSources&langs_count=10&theme=tokyonight&layout=compact" alt="NunoSources :: Top Langs" /></p>
+
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nunosources&repo=PackageTemplate&show_owner=true)](https://github.com/nunosources/FlappyManafa)
 
 <!--
